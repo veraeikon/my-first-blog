@@ -27,7 +27,7 @@ SECRET_KEY = '3%gt-@aw1m2(jsu4rrf*sk(txeu-zh$34&+$a(v&&*jsxi6*xt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['motherhacker1.pythonanywhere.com']
 
 
 # Application definition
